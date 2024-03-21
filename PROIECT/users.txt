@@ -1,0 +1,24 @@
+Student
+1	5020517013642	Boar	Dani		Sahia 24	0741241243	daniboar@yahoo.com	RO72RNCB312412	6
+2	5023213123231	Elecfi Sergiu	Rozelor 2	0744112233	elecfserj@gmail.com	RO13142141241244	2
+3	5040512345153	Mircea Andrei	Aiud 2	0713124124	mircandrei@gmail.com	RO321RNCB321412	37
+4	5041134214455	Aldea	Mihaela	Fabricii 34	0771124243	aldeamiha@yahoo.com	RO72BT444211233	1
+5	1034214532521	Corina Marcela	Bobalnei 1	0748412123	corrina221@gmail.com	RO14REV41112334	3
+6	5040301451235	Graur	Luca		Dezmir 2	0748827723	g.luca@gmail.com		50BT11222111	9
+Profesor
+1	5020517013643	Pop Ghita		Mihali 39		0721241441	pop.ghita@yahoo.com	RO48RNCB41241223	21
+2	1034242432566	Miriuta Cristina	Principala 41	0771422412	m_cristina@gmail.com	RO72REV412412412	22
+3	5040410421432	Garcea Ovidiu	Creanga 4		0712324455	g.ovidiu2@yahoo.com	RO32BT3214129797	24
+4	5021345437874	Vadim	Robert	Dorobantilor 2	0732131298	robertv@yahoo.com		RO4RNCB412451259	26
+5	5042143252566	Adrian Mihai	Platinia 		0731241214	mihai.ad@gmail.com	RO44412498982717	27
+
+Administrator
+1043242353255	Calugar	Miruna	Rozelo 5 	0732421414	miruna13@gmail.com	ROBT2412412908	48
+5020411232412	Grigore	Marius	Fabricii 2	0741231332	grigorem@yahoo.com	RO21RNCB441241	50
+
+Super-Administrator
+5040412431242	Mita	Iulia	 iulia.mita@gmail.com
+1043252309792	Pintea	Vlad    pinvlad@yahoo.com
+
+
+ALDEA MIHAELA  --- Inscrisa la PC si Sport dar nu e inscrisa la niciun grup

@@ -1,0 +1,41 @@
+JdbcExample
+PrimaPagina
+LogIn
+
+Student-------------------------------------------------------------------------
+DupaLoginS
+Orar
+Inscriere Grup
+Inscriere Curs
+Cursuri
+Inscriere activitate grup
+Renuntare curs
+Parasire grup
+Creare activitate grup
+Vizualizare membrii grup
+Date personale
+Vizualizare activitati
+Mesaje
+Note
+Adaugare prof la activitate
+Sugestii grup studiu
+
+Profesor-------------------------------------------------------------------------
+Date personale
+DupaLoginP
+Adaugare note 
+Vizualizare studenti + interfata sa se vada 
+Gestionare procente activitati
+Catalog (descarcat)
+
+Administrator+Super_Administrator----------------------------------------------------------
+DupaLoginA
+Filtrare dupa tip
+Informatii personale
+Cauta Curs
+Asignare Profesor
+Update
+Delete user
+Insert User
+Delete info
+Cauta informatii despre un user in mod special
